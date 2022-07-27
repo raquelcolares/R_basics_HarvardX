@@ -1,6 +1,6 @@
 # Data Science: R Basics
 
-## Institution: HarvardX - PH125.1x
+## Institution: HarvardX 
 
 The purose of this course was to build a foundation in R and learn how to wrangle, analyze, and visualize data.
 
